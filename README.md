@@ -35,4 +35,4 @@ Pm me: zeroerror.444@gmail.com
 2. https://ocw.mit.edu/courses/biology/7-014-introductory-biology-spring-2005/index.htm
 
 ### Other Things
-This is a project came out of curiosity and if you are expert in micro biology or molecular biology feel free raise an issue if you find anything odd.Thank you.
+This is a project came out of curiosity and if you are expert in micro biology or molecular biology feel free to raise an issue if you find anything odd.Thank you.
