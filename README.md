@@ -10,18 +10,25 @@
 - [ ] Compare SARS-CoV-2 with MERS and SARS, if possible find the differentiated sequence with other strains - **Nope**
 - [ ] Will be added in the future.
 
-## Other Things
-This is a project came out of curiosity and if you are expert in micro biology or molecular biology feel free raise an issue if you find anything odd.Thank you.
+### Analysis
+- There is no equivalent to execution, we are reverse engineering a CAD format
+- Static analysis, looking at the DNA, protein structure prediction, FLIRT signatures, etc...
+- Simulation doesn't seem to work yet
+- Tons of in system dynamic analysis, but the tools are crap
+- Runs more like FPGA code, all at once, no serial execution (what are the FPGA re tools?)
 
 ## Let's Work together
 Pm me: zeroerror.444@gmail.com
 
 ## References
 - Collect Genomes form here: [NIH](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/)
-- Chapter 4 - Coronavirus Pathogenesis -- https://www.sciencedirect.com/science/article/pii/B9780123858856000092
-                                          https://www.futuremedicine.com/doi/pdf/10.2217/fvl-2018-0008
-- textbooks
+- Coronavirus Pathogenesis -- https://www.sciencedirect.com/science/article/pii/B9780123858856000092
+                              https://www.futuremedicine.com/doi/pdf/10.2217/fvl-2018-0008
+- TextBooks and Miscellaneous Stuff
 *Molecular Biology of the Cell*
-- classes
 1. https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/index.htm
 2. https://ocw.mit.edu/courses/biology/7-014-introductory-biology-spring-2005/index.htm
+
+
+## Other Things
+This is a project came out of curiosity and if you are expert in micro biology or molecular biology feel free raise an issue if you find anything odd.Thank you.
