@@ -2,13 +2,13 @@
 '''This is not a scientific mode but a representation of it and i don't recommend it to be used for scientific purposes because this model has to be validated in real time which may take time.'''
 
 ## Things to be done
-[x] Collect Gnome Sequences - **Done** (Only 5 countries)
-[x] Calculate the Avg Size of 5 Genomes - **Done**
-[x] Calculate the Pairwise score or Similarity between genomes - **Done** (Needleman-Wunsch Algorithm)
-[x] Calculate the mutation rate by comparing the base pairs - **Done**
-[] Create a model for Recombinant adeno-associated virus (rAAV) to accept two RNA genomes and simulate the stability - **Nope**
-[] Compare SARS-CoV-2 with MERS and SARS, if possible find the differentiated sequence with other strains - **Nope**
-[] Will be added in the future.
+-[x] Collect Gnome Sequences - **Done** (Only 5 countries)
+-[x] Calculate the Avg Size of 5 Genomes - **Done**
+-[x] Calculate the Pairwise score or Similarity between genomes - **Done** (Needleman-Wunsch Algorithm)
+-[x] Calculate the mutation rate by comparing the base pairs - **Done**
+-[] Create a model for Recombinant adeno-associated virus (rAAV) to accept two RNA genomes and simulate the stability - **Nope**
+-[] Compare SARS-CoV-2 with MERS and SARS, if possible find the differentiated sequence with other strains - **Nope**
+-[] Will be added in the future.
 
 ## Other Things
 This is a project came out of curiosity and if you are expert in micro biology or molecular biology feel free raise an issue if you find anything odd.Thank you.
